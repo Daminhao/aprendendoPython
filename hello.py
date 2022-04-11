@@ -1,6 +1,3 @@
-print("hello world")
+# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-a = 1 + 1 
-print("Resultado:",a)
-
-print("branch nova")
+print ("Olá mundo")
